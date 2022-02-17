@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "global Warming",
+      "description": "Global warming is the long-term heating of Earth's climate system observed since the pre-industrial period (between 1850 and 1900) due to human activities, primarily fossil fuel burning, which increases heat-trapping greenhouse gas levels in Earth's atmosphere.",
+      "userEmail": "nishithguptha@gmail.com",
+      "userName": "Nishith Gupta",
+      "id": 1
+    },
+    {
+      "title": "Allu Arjun",
+      "description": "Allu Arjun (born 8 April 1982) is an Indian actor who predominantly works in Telugu films. He is one of the highest paid actors in South India .",
+      "userEmail": "nishithguptha@gmail.com",
+      "userName": "Nishith Gupta",
+      "id": 2
+    },
+    {
+      "title": "Dance",
+      "description": "dance, the movement of the body in a rhythmic way, usually to music and within a given space, for the purpose of expressing an idea or emotion, releasing energy, or simply taking delight in the movement itself.",
+      "userEmail": "ayush@gmail.com",
+      "userName": "Ayush",
+      "id": 4
+    },
+    {
+      "title": "Lazy",
+      "description": "\nThere was a boy named John who was so lazy, he couldn’t even bother to change his clothes. One day, he saw that the apple tree in their yard was full of fruits. He wanted to eat some apples but he was too lazy to climb the tree and take the fruits. So he lay down underneath the tree and waited for the fruits to fall off. John waited and waited until he was very hungry but the apples never fell.\n\nMoral of the story:\n\nLaziness can get you nowhere. If you want something, you need to work hard for it.",
+      "userEmail": "ayush@gmail.com",
+      "userName": "Ayush",
+      "id": 5
+    },
+    {
+      "title": "Food",
+      "description": "Studies that look into diet quality often group food into whole grains/cereals, refined grains/cereals, vegetables, fruits, nuts, legumes, eggs, dairy products.",
+      "userEmail": "rahul@gmail.com",
+      "userName": "Rahul",
+      "id": 6
+    },
+    {
+      "title": "Travel",
+      "description": "Oberammergau, Germany, is the location of the famous Passion Play produced every ten years. The tradition began in 1634 in thanksgiving for the town having been spared during the Bubonic Plague. The play is cast and produced entirely by the residents of this Bavarian town. I was fortunate to be able to be there to see the 1970 production of this legendary, and often controversial, dramatic work. In Oberammergau, the townsfolk open their homes to the throngs of visitors coming to see the play. We stayed with a family at their home right in the town. Our homestay family consisted of a mother, father, and teenage daughter, about 17. Dad and daughter were in the play, but not Mom. They kindly provided meals as well as a place to stay. ",
+      "userEmail": "nishithgupta031@gmail.com",
+      "userName": "Nishith",
+      "id": 7
+    }
+  ]
+}

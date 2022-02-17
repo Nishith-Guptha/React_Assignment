@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "Nishith Gupta",
+      "email": "nishithguptha@gmail.com",
+      "password": "6301371142",
+      "id": 1
+    },
+    {
+      "username": "Ayush",
+      "email": "ayush@gmail.com",
+      "password": "6301371142",
+      "id": 2
+    },
+    {
+      "username": "Rahul",
+      "email": "rahul@gmail.com",
+      "password": "6310371142",
+      "id": 3
+    },
+    {
+      "username": "Nishith",
+      "email": "nishithgupta031@gmail.com",
+      "password": "6310371142",
+      "id": 4
+    }
+  ]
+}
